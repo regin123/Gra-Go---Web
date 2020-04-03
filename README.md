@@ -4,14 +4,22 @@ Created with Masioki: https://github.com/Masioki as project for Programming Tech
 Orginal repo: https://github.com/Masioki/Gra-Go---Web  
 Comments are written in Polish.  
 To play, start server and go to http://localhost:8080/login in your browser.
-## Login Page
+## Login Page:
+
 <img src="https://github.com/regin123/Gra-Go---Web/blob/master/pictures/login.png" alt="drawing" height=350px/>  
-## Register Page
+
+## Register Page:
+
 <img src="https://github.com/regin123/Gra-Go---Web/blob/master/pictures/register.png" alt="drawing" height=350px/>  
-## Lobby
+
+## Lobby:
+
 <img src="https://github.com/regin123/Gra-Go---Web/blob/master/pictures/lobby.png" alt="drawing" height=350px/>  
-## Game
+
+## Game:
+
 <img src="https://github.com/regin123/Gra-Go---Web/blob/master/pictures/game.png" alt="drawing" height=350px/>  
+
 ### Technologies used:
 
 <img src="https://vignette.wikia.nocookie.net/jfx/images/5/5a/JavaFXIsland600x300.png/revision/latest?cb=20070917150551" alt="drawing" height=50px/><img 
