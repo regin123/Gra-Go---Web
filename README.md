@@ -3,9 +3,9 @@ Implementation of popular board game GO using Client-server-model, Hibernate and
 Created with Masioki: https://github.com/Masioki as project for Programming Technologies course.
 Orginal repo: https://github.com/Masioki/Gra-Go---Web 
 Comments are written in Polish.
-To play, start server and go to http://localhost:8080/login.
+To play, start server and go to http://localhost:8080/login in your browser.
 
-### Wykorzystane technologie
+### Technologies used:
 
 <img src="https://vignette.wikia.nocookie.net/jfx/images/5/5a/JavaFXIsland600x300.png/revision/latest?cb=20070917150551" alt="drawing" height=50px/><img 
 src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" alt="drawing" height=50px/><img 
