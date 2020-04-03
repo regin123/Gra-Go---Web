@@ -1,8 +1,8 @@
 # Gra-Go---Web
-Implementation of popular board game GO using Client-server-model, Hibernate and Swing.  
-Created with Masioki: https://github.com/Masioki as project for Programming Technologies course.
-Orginal repo: https://github.com/Masioki/Gra-Go---Web 
-Comments are written in Polish.
+Implementation of popular board game GO using Client-server-model, Hibernate and Swing.     
+Created with Masioki: https://github.com/Masioki as project for Programming Technologies course. 
+Orginal repo: https://github.com/Masioki/Gra-Go---Web  
+Comments are written in Polish.  
 To play, start server and go to http://localhost:8080/login in your browser.
 
 ### Technologies used:
