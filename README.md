@@ -4,7 +4,7 @@ Created together with Masioki: https://github.com/Masioki as project for Program
 Orginal repo: https://github.com/Masioki/Gra-Go---Web  
 Comments are written in Polish.  
 To play, start server and go to http://localhost:8080/login in your browser.  
-We choose dark theme. 
+We choosed dark theme. 
 ## Login Page:
 
 <img src="https://github.com/regin123/Gra-Go---Web/blob/master/pictures/login.png" alt="drawing" height=350px/>  
