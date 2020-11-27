@@ -1,4 +1,4 @@
-# go-game-web
+# Go Game
 
 ## Table of contents
 
