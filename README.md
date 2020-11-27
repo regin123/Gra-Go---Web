@@ -1,4 +1,4 @@
-# Gra-Go---Web
+# go-game-web
 
 ## Table of contents
 
