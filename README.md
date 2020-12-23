@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Implementation of popular board game GO using Client-server-model, Hibernate and Swing.     
+Implementation of popular board game GO developed using Hibernate and Swing.     
 Created together with Masioki: https://github.com/Masioki as project for Programming Technologies course. 
 Orginal repo: https://github.com/Masioki/Gra-Go---Web 
 
