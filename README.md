@@ -37,7 +37,5 @@ start server and type http://localhost:8080/login in your browser.
 
 ## Technologies
 
-<img src="https://www.techcentral.ie/wp-content/uploads/2019/07/Java_jdk_logo_web-372x210.jpg" alt="drawing" height=50px/><img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="drawing" height=50px/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="drawing" height=50px/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="drawing" height=50px/>
+* [Hibernate](https://hibernate.org/)
+* [Spring](https://spring.io/)
